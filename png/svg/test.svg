@@ -5,7 +5,7 @@
     <style>
       @font-face {
         font-family: 'YourFontName';
-        src: url('https://github.com/RemHero/RemHero/blob/main/typeface/Cubic_11_1.013_R.woff') format('woff');
+        src: url('https://github.com/RemHero/RemHero/typeface/Cubic_11_1.013_R.woff') format('woff');
       }
     </style>
   </defs>
