@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="100" viewBox="0 0 600 100">
+  <defs>
+    <style>
+      @font-face {
+        font-family: 'YourFontName';
+        src: url('https://github.com/RemHero/RemHero/blob/main/typeface/Cubic_11_1.013_R.woff') format('woff');
+      }
+    </style>
+  </defs>
+  <text font-family="YourFontName" font-size="48" x="10" y="60">Hello, World!</text>
+</svg>
